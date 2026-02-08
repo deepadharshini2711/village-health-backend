@@ -33,3 +33,7 @@ This is useful for remote healthcare management and monitoring medicine distribu
 1. Clone this repository:
    ```bash
    git clone https://github.com/deepadharshini2711/village-health-backend.git
+
+## Author
+-Deepadharshini
+   
